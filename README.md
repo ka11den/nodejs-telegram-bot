@@ -1,6 +1,6 @@
 <h1 align="center">Node.js Telegram Bot Payment</h1>
 <div align="center">
-  Node.js module to interact with the official <a href="https://core.telegram.org/bots/api">Telegram Bot Payment</a> and library for <a href="https://telegrafjs.org/#/">Telegraf</a> interaction
+  Node.js module to interact with the official <a href="https://core.telegram.org/bots/api">Telegram Bot API</a> and library for <a href="https://telegrafjs.org/#/">Telegraf</a> interaction
 </div>
 
 ## Introduction
